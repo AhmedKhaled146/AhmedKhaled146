@@ -33,7 +33,6 @@ I'm a full-stack developer with a passion for more programming styles. I special
 - Founder of [Count Zero, CSTU]
 
 ## Contact
-📧 Email: a7med74yaso@gmail.com
 📧 Email: ahmedkhaledahmedibrahim@gmail.com
 🔗 LinkedIn: [Ahmed Khaled](https://www.linkedin.com/in/ahmed-khaled-08736b192/)
 
