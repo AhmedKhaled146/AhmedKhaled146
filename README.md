@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Hello, I'm Ahmed Khaled! 👋
+<a href="https://komarev.com/ghpvc/?username=danaelshrbiny10">
+  <img align="ft" src="https://komarev.com/ghpvc/?username=danaelshrbiny10&label=Visitors&color=EB984E&style=flat" alt="Profile visitor" />
+</a>
 
 ## About Me
 I'm a full-stack developer with a passion for more programming styles. I specialize in Python and Ruby, and I love working on projects that give me more experience and increase my knowledge about my field.
