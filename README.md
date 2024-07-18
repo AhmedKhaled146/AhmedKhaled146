@@ -50,7 +50,7 @@ Skills:
 
 ## Achievements
 - Certified [ITI - Full Stack Python, Reactjs]
-- Founder of [<a href="https://www.facebook.com/countzerocs">Count Zero, CSTU</a>]
+- Founder of [<a href="https://www.facebook.com/countzerocs" target="_blanck">Count Zero, CSTU</a>]
 
 ## Contact
 📧 Email: ahmedkhaledahmedibrahim@gmail.com
