@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-I am Ahmed Khaled. I graduated from the Faculty of Science, Tanta University, Computer Science Department, in 2022. I joined the <samp color=blue>Institute of Information Technology</samp> and graduated from the Full Stack Department using Python and React.
+I am Ahmed Khaled. I graduated from the Faculty of Science, Tanta University, Computer Science Department, in 2022. I joined the Institute of Information Technology and graduated from the Full Stack Department using Python and React.
 
 I'm an enthusiastic and dedicated entry-level Full Stack web developer. I come with a strong foundation in web development, a passion for learning, and a commitment to delivering high-quality work.
 
