@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- Intro  -->
 <h3 align="center">
   <samp>Hey There!, I am
-    **[Ahmed](https://ahmedkhaled146.github.io/my-portfolio/){:target="_blank"}**
+    <b><a target="_blank" href="https://ahmedkhaled146.github.io/my-portfolio/">Ahmed</a></b>
   </samp>
 </h3>
 <h5 align="center">A Software Engineer</h5>
