@@ -35,8 +35,8 @@ Front-End: Proficient in HTML, CSS, and JavaScript, I can create responsive and 
 Back-End: I have a working knowledge of Python and Django for server-side development and experience in Ruby language.
 
 Skills:
-- Python, Django, Flask(basic),
 - Ruby, Ruby on Rails,
+- Python, Django, Flask(basic),
 - Git & GitHub,
 - PHP, PHP(OOP),
 - Java(basics), JavaFX
