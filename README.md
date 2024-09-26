@@ -43,7 +43,8 @@ Skills:
 - JavaScript, JQuery, ReactJS
 - Command LINUX,
 - SQL, MySQL, PostgreSQL,
-- Bash Script.
+- Bash Script,
+- OOP, SOLID
 
 
 ## Achievements
