@@ -38,8 +38,6 @@ Skills:
 - Ruby, Ruby on Rails,
 - Python, Django, Flask(basic),
 - Git & GitHub,
-- PHP, PHP(OOP),
-- Java(basics), JavaFX
 - HTML, HTML5,
 - CSS, CSS3, Bootstrap
 - JavaScript, JQuery, ReactJS
