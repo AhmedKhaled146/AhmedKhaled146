@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 
 ## About Me
-I am Ahmed Khaled. I graduated from the Faculty of Science, Tanta University, Computer Science Department, in 2022. I joined the Institute of Information Technology and graduated from the Full Stack Department using Python and React.
+I am Ahmed Khaled, a passionate and dedicated Ruby on Rails developer. I graduated from the Faculty of Science, Tanta University, with a degree in Computer Science in 2022. Afterward, I completed my training at the Institute of Information Technology (ITI), where I specialized in Full Stack Development using Python and React (ITP).
 
-I'm an enthusiastic and dedicated entry-level Full Stack web developer. I come with a strong foundation in web development, a passion for learning, and a commitment to delivering high-quality work.
+With a strong foundation in both front-end and back-end technologies, I am actively seeking opportunities to grow my expertise in Ruby on Rails. I am eager to apply my skills to contribute to innovative web development projects.
 
-Front-End: Proficient in HTML, CSS, and JavaScript, I can create responsive and visually appealing websites.
+Front-End: Proficient in HTML, CSS, and JavaScript, I can build responsive and visually appealing websites.
 
-Back-End: I have a working knowledge of Python and Django for server-side development and experience in Ruby language.
+Back-End: I have experience in Python and Django for server-side development, and I am expanding my skills in Ruby on Rails.
 
 Skills:
 - Ruby, Ruby on Rails,
